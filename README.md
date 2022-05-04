@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to the css-university</h1>
+<h1 align="center">Hi 👋, Welcome to the css-university </h1>
 
 
 <!-- - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.-->
